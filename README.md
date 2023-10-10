@@ -1,6 +1,6 @@
 ## Weighted Sum Rate Maximization for MIMO Broadcast Channels using Dirty Paper Coding and Zero-forcing Methods
 
-This capsule contains the simulation code for the following paper:
+This repo is cloned from [this CodeOcean capsule](https://codeocean.com/capsule/2244898/tree/v1), which contains the simulation code for the following paper:
 
 Le-Nam Tran, Markku Juntti, Mats Bengtsson, and Björn Ottersten, "Weighted Sum Rate Maximization for MIMO Broadcast Channels using Dirty Paper Coding and Zero-forcing Methods," IEEE Trans. Commun., vol. 61, no. 6, pp. 2362 - 2373, June 2013.
 
