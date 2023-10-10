@@ -1,0 +1,26 @@
+metadata_version: 1
+name: Weighted Sum Rate Maximization for MIMO Broadcast Channels using Dirty Paper
+  Coding and Zero-forcing Methods
+description: |-
+  Simulation code for the following paper:
+
+  Le-Nam Tran, Markku Juntti, Mats Bengtsson, and Björn Ottersten, "Weighted Sum Rate Maximization for MIMO Broadcast Channels using Dirty Paper Coding and Zero-forcing Methods," IEEE Trans. Commun., vol. 61, no. 6, pp. 2362 - 2373, June 2013.
+tags:
+- weighted sum rate
+- MIMO
+- Broadcast channel
+- dirty paper coding
+- zero-forcing
+authors:
+- name: Le-Nam Tran
+  affiliations:
+  - name: University of Oulu
+- name: Markku Juntti
+  affiliations:
+  - name: University of Oulu
+- name: Mats Bengtsson
+  affiliations:
+  - name: KTH Royal Institute of Technology
+- name: Björn Ottersten
+  affiliations:
+  - name: University of Luxembourg
